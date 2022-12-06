@@ -1,0 +1,160 @@
+html {
+ 
+}
+#welcome{
+  text-align: center;
+  font-size: 70px;
+  background: -webkit-linear-gradient(black,white,white,black,black,black );
+   -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     margin-top: 7%;
+    
+}
+.intro{
+  text-align: center;
+  font-size: 20px;
+  color : darkgoldenrod;
+}
+h2{ 
+    object-position: center;
+    padding-bottom: 20%;
+    
+    color: #ff000080;
+}
+p{
+  text-align: center;
+  font-size: 40px;
+  background: linear-gradient(#b8b1ae,black);
+  -webkit-background-clip: text ;
+  -webkit-text-fill-color:  transparent;
+  opacity: 120%;
+  color: black;
+
+}
+#jimi{
+  background: linear-gradient(#ffa31a,black);
+  -webkit-background-clip: text ;
+  -webkit-text-fill-color:  transparent;
+  font-size: 60px;
+  font-family: initial;
+}
+.intro{
+  font-stretch: extra-expanded;
+  font-size: 30px;
+  color: #b8b1ae;
+}
+
+body {
+  background: #000000;
+  color: #ffffff;
+  margin: 0;
+  min-height: 100%;
+  height: 100%;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+  
+
+ul #guitars {
+  float: left;
+  color: red;
+  font-size: 100px;
+}
+
+
+#nike1 {
+  width: 300px; 
+  height: 300px;
+  margin-left: 100px;
+   border: solid black;
+   background-color: black;
+   border-radius: 20px 20px;
+}
+#nike2{
+  height: 300px;
+  width: 300px;
+  margin-left: 720px;
+   border: solid black;
+   background-color: black;
+   border-radius: 20px 20px;
+}
+#nike3{
+  height : 300px;
+  width:  300px;
+  margin-left: 100px;
+  margin-top: 150px;
+   border: solid black;
+   background-color: black;
+   border-radius: 20px 20px;
+}
+#nike4{
+  height : 300px;
+  width : 300px;
+margin-left: 720px;
+margin-top: 150px; 
+   border: solid black;
+   background-color: black;
+   border-radius: 20px 20px;}
+
+#but1 {
+display: contents;
+ position: relative;
+ z-index: 1;
+ padding: 0;
+  margin: -5m;
+  padding-left: 0;
+  border: 2px solid red;
+  border-radius: 25px;
+  background-color: black
+   }
+#but3{
+display: contents;
+ position: relative;
+ z-index: 1;
+ padding: 0;
+  margin: -5m;
+  padding-left: 10m;
+ border: 2px solid red;
+  border-radius: 25px;
+  background-color: black;
+
+}
+
+#but2{
+display: contents;
+ position: relative;
+ z-index: 1;
+ padding: 0;
+  margin: -5m;
+  padding-left: 10m;
+border: 2px solid red;
+  border-radius: 25px;
+  background-color: black;
+}
+
+#but4{
+display: contents;
+ position: relative;
+ z-index: 1;
+ padding: 0;
+  margin: -5m;
+  padding-left: 10m;
+ border: 2px solid red;
+  border-radius: 25px;
+  background-color: black;
+}
+#what{
+  text-align: center;
+  padding-top: 10%;
+  color: whitesmoke;
+
+}
+
