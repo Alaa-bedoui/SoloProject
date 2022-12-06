@@ -153,8 +153,25 @@ display: contents;
 }
 #what{
   text-align: center;
-  padding-top: 10%;
-  color: whitesmoke;
+  padding-top: 5%;
+  color: red;
+  font-style: italic;
+  font-size: 30px;
+
 
 }
+a{
+  text-decoration: none;
+}
+#supreme{
+ margin-top: 20px;
+  font-size:120px;
+  padding-top: -80px;
+  opacity: 70%;
 
+}
+#supreme:hover{
+transform: scale(1.6);
+transition: 3s ease-in-out;
+opacity: 100%;
+}
